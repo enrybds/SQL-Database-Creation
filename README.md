@@ -3,7 +3,7 @@ Bootcamp practice creating a relational database with SQL.
 
 ## Objectives
 
-1.Create a relational database schema that contain information about students, teachers, exams and subjects.
+1. Create a relational database schema that contain information about students, teachers, exams and subjects.
 
   The relationship is as follows:
   - A student can have one or more subjects
@@ -14,10 +14,10 @@ Bootcamp practice creating a relational database with SQL.
   - The exams are UNIQUE per subject. THERE IS ONLY ONE EXAM FOR EACH SUBJECT and STUDENT AND ONLY ONE.
 
 
-2.Once you've created the schema, make up values ​​and fillthe tables with appropriate data.
+2. Once you've created the schema, make up values ​​and fillthe tables with appropriate data.
   Try to have enough columns to store all the information that might be relevant.
 
-3.At the end you should be able to perform the following queries.
+3. At the end you should be able to perform the following queries.
 
   - Average mark of each subject.
   - Average grade associated with each teacher (average grades for their subjects)
