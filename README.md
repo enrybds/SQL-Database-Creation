@@ -1,7 +1,7 @@
 # Relational Database Creation & Querys | SQL 🛢🗃️
 Bootcamp practice creating a relational database with SQL.
 
-## Objetives
+## Objectives
 
 Create a relational database schema that contain information about students, teachers, exams and subjects.
 
