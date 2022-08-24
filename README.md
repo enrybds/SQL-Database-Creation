@@ -1,4 +1,4 @@
-# Relational Database Creation & Querys | SQL 🛢🗃️
+# Relational Database Creation & Querys | SQL 🗃️
 Bootcamp practice creating a relational database with SQL.
 
 ## Objectives
@@ -24,3 +24,8 @@ At the end you should be able to perform the following queries.
 - Average mark of each student
 - What is the most difficult subject?
 - Look for the risk group of each subject (students who do worse.
+
+## ERR Diagram
+
+![ERR Diagram](https://user-images.githubusercontent.com/105368099/186494985-00dda392-6f06-4c92-a3d2-1a221ebb2ad3.png)
+
